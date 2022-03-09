@@ -366,7 +366,7 @@ p{
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: row;
     width: 80%;
     margin: 20px auto;
     overflow: hidden;
@@ -610,6 +610,7 @@ p{
         font-size: 7rem;
     }
     /* ## end hero ## */
+    
     /* ## service section ##  */
     #services .service-bottom .service-item {
         flex-basis: 45%;
